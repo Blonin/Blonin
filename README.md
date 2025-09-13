@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustave Richter @Blonin 
 - 👀 I’m mostly interested in cyber-security but also in all sort of programmation
 - 🌱 I’m currently learning C and Java
-- 📫 You can reach me via mail at gustave.eloire.richter@gmail.com or via message at this number +33 06 52 31 32 33
+- 📫 You can reach me via mail at richtergustave@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on 
